@@ -1,0 +1,37 @@
+[project]
+name = "backend"
+version = "0.2.0"
+description = "Hybrid knowledge graph and vector RAG over an enterprise corpus"
+readme = "README.md"
+authors = [
+    { name = "prateekh-spec", email = "prateek.h@digibull.ai" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.141.1",
+    "httpx>=0.28.1",
+    "langchain>=1.3.15",
+    "langchain-community>=0.4.2",
+    "langchain-groq>=1.1.3",
+    "langchain-ollama>=1.1.0",
+    "neo4j>=6.2.0",
+    "ollama>=0.6.2",
+    "pgvector>=0.5.0",
+    "psycopg>=3.3.4",
+    "pydantic>=2.13.4",
+    "pydantic-settings>=2.15.0",
+    "pytest>=9.1.1",
+    "sqlalchemy>=2.0.52",
+    "tenacity>=9.1.4",
+    "uvicorn>=0.52.4",
+    "groq>=0.37.1",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+
+# No [project.scripts] and no [build-system]. The uv template created a
+# src/backend/__init__.py with a Hello World main() that nothing ever
+# imported, and pointed a console script at it. This is an application
+# run with uvicorn, not a distributable package, so there is nothing to
+# build and no entry point to declare.
