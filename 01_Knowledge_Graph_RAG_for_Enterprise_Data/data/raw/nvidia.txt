@@ -1,0 +1,9 @@
+NVIDIA Corporation is a technology company led by CEO Jensen Huang. Originally known for graphics processing units used in gaming, NVIDIA has become one of the most important companies in artificial intelligence by designing GPUs optimized for machine learning and scientific computing.
+
+The NVIDIA H100 Tensor Core GPU has become an industry standard for training large AI models. Its architecture enables faster matrix computations, making it highly effective for deep learning workloads. Many cloud providers and research organizations use H100 GPUs to build AI infrastructure.
+
+Microsoft is one of NVIDIA's largest customers. The company purchases tens of thousands of H100 GPUs to construct AI supercomputers within Azure data centers. These systems provide the computational backbone for Microsoft's AI services and its partnership with OpenAI.
+
+OpenAI also benefits from NVIDIA's hardware through Microsoft's Azure infrastructure. The combination of NVIDIA GPUs, Azure cloud services, and OpenAI's research creates a technology ecosystem in which each company depends on the others for different capabilities.
+
+NVIDIA announced the Blackwell architecture in 2024.

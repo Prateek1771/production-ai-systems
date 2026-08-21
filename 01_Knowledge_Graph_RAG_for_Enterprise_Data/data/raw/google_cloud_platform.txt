@@ -1,0 +1,39 @@
+Google Cloud is a suite of cloud computing services offered by Google that provides a series of modular cloud services including computing, data storage, data analytics, and machine learning, alongside a set of management tools. It runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search, Gmail, and Google Docs, according to Verma et al. Registration requires a credit card or bank account details.
+Google Cloud provides infrastructure as a service, platform as a service, and serverless computing environments.
+In April 2008, Google announced App Engine, a platform for developing and hosting web applications in Google-managed data centers, which was the first cloud computing service from the company. The service became generally available in November 2011. Since the announcement of App Engine, Google added multiple cloud services to the platform.
+Google Cloud  includes Google Cloud public cloud infrastructure, as well as Google Workspace (G Suite), enterprise versions of Android and ChromeOS, and application programming interfaces (APIs) for machine learning and enterprise mapping services. Since at least 2022, Google's official materials have stated that "Google Cloud" is the new name for "Google Cloud Platform," which may cause naming confusion.
+
+Google lists over 100 products under the Google Cloud brand. Some of the key services are listed below.
+
+App Engine – Platform as a Service to deploy applications developed with Java, PHP, Node.js, Python, C#, .Net, Ruby and Go programming languages
+Compute Engine – Infrastructure as a Service to run Microsoft Windows and Linux virtual machines.
+Google Kubernetes Engine (GKE) or GKE on-prem offered as part of Anthos platform – Containers as a Service based on Kubernetes
+Cloud Functions – Functions as a Service to run event-driven code written in Node.js, Java, Python, or Go
+Cloud Run – Compute execution environment based on Knative Offered as Cloud Run (fully managed) or as Cloud Run for Anthos. It currently supports GCP, AWS and VMware management.
+
+Cloud Storage – Object storage with integrated edge caching to store unstructured data
+Cloud SQL – Database as a Service based on MySQL, PostgreSQL and Microsoft SQL Server
+Cloud Bigtable – Managed NoSQL database service
+Cloud Spanner – Horizontally scalable, strongly consistent, relational database service
+Cloud Datastore – NoSQL database for web and mobile applications
+Persistent Disk – Block storage for Compute Engine virtual machines
+Cloud Memorystore – Managed in-memory data store based on Redis and Memcached
+Local SSD – High-performance, transient, local block storage
+Filestore – High-performance file storage for Google Cloud users
+AlloyDB – Fully managed PostgreSQL database service
+
+VPC – Virtual Private Cloud for managing the software defined network of cloud resources
+Cloud Load Balancing – Software-defined, managed service for load balancing the traffic
+Cloud Armor – Web application firewall to protect workloads from DDoS attacks
+Cloud CDN – Content Delivery Network based on Google's globally distributed edge points of presence
+Cloud Interconnect – Service to connect a data center with Google Cloud
+Cloud DNS – Managed, authoritative DNS hosting service running on the same infrastructure as Google
+Network Service Tiers – Option to choose Premium vs Standard network tier for higher-performing network
+
+BigQuery – Scalable, managed enterprise data warehouse for analytics
+Cloud Dataflow – Managed service based on Apache Beam for stream and batch data processing
+Cloud Data Fusion – A managed ETL service based on the Open Source Cask Data Application Platform
+Dataproc – Big data platform for running Apache Hadoop and Apache Spark jobs
+Cloud Composer – Managed workflow orchestration service built on Apache Airflow
+Cloud Datalab – Tool for data exploration, analysis, visualization and machine learning. It is a fully managed Jupyter Notebook service.
+Cloud Dataprep – Data service based on 

@@ -1,0 +1,31 @@
+Microsoft Azure, sometimes stylized Azure, and formerly Windows Azure, is the cloud computing platform developed by Microsoft. It offers management, access and development of applications and services to individuals, companies, and governments through its global infrastructure. Microsoft Azure supports multiple programming languages, tools, and frameworks, including Microsoft-specific and third-party software and systems.
+Azure was first introduced at the Professional Developers Conference (PDC) in October 2008 under the code name "Project Red Dog". It was officially launched as Windows Azure in February 2010 and later renamed to Microsoft Azure on March 25, 2014.
+
+Microsoft Azure uses large-scale virtualization at Microsoft data centers worldwide and offers more than 600 services. Microsoft Azure offers a service level agreement (SLA) that guarantees 99.9% availability for applications and data hosted on its platform, subject to specific terms and conditions outlined in the SLA documentation.
+
+Virtual machines, infrastructure as a service (IaaS), allowing users to launch general-purpose Microsoft Windows and Linux virtual machines, software as a service (SaaS), as well as preconfigured machine images for popular software packages.
+Starting in 2022, these virtual machines are now powered by Ampere Cloud-native processors.
+Most users run Linux on Azure, some of the many Linux distributions offered, including Microsoft's own Linux-based Azure Sphere.
+App services, a platform as a service (PaaS) environment for publishing and managing websites.
+Azure Web Apps, formerly Azure Web Sites, allows developers to build and deploy websites using various programming languages and deployment tools. This PaaS feature was announced in June 2012 and renamed in April 2015.
+Web Jobs are applications that can be deployed to an App Service environment to implement background processing that can be invoked on a schedule, on-demand, or run continuously. The Blob, Table, and Queue services can be used to communicate between Web Apps and Web Jobs and to provide state.
+Azure Kubernetes Service (AKS) provides the capability to deploy production-ready Kubernetes clusters in Azure.
+In July 2023, watermarking support on Azure Virtual Desktop was announced as an optional feature of Screen Capture to provide additional security against data leakage.
+
+Entra ID connect is used to synchronize on-premises directories and enable SSO (Single Sign On).
+Entra ID B2C allows the use of consumer identity and access management in the cloud.
+Entra Domain Services is used to join Azure virtual machines to a domain without domain controllers.
+Azure information protection can be used to protect sensitive information.
+Entra ID External Identities is a set of capabilities that allow organizations to collaborate with external users, including customers and partners.
+On July 11, 2023, Microsoft announced the renaming of Azure AD to Microsoft Entra ID. The name change took place four days later.
+
+Mobile Engagement collects real-time analytics that highlight users' behavior. It also provides push notifications to mobile devices.
+HockeyApp can be used to develop, distribute, and beta-test mobile apps.
+
+Storage Services provides REST and SDK APIs for storing and accessing data on the cloud.
+Table Service lets programs store structured text in partitioned collections of entities that are accessed by the partition key and primary key. Azure Table Service is a NoSQL non-relational database.
+Blob Service allows programs to store unstructured text and binary data as object storage blobs that can be accessed by an HTTP(S) path. Blob service also provides security mechanisms to control access to data.
+Queue Service lets programs communicate asynchronously by message using queues.
+File Service allows storing and access of data on the cloud using the REST APIs or the SMB protocol.
+
+Azure Communication Services offers an SDK for creating web and mobile communications applications that inclu

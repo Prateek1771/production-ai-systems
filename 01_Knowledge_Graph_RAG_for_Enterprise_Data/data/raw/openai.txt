@@ -1,0 +1,7 @@
+OpenAI is an artificial intelligence research organization founded in 2015. The organization was established with the goal of ensuring that artificial general intelligence benefits humanity. Today, OpenAI develops advanced AI systems for reasoning, coding, image generation, and natural language understanding.
+
+OpenAI is led by CEO Sam Altman and has become widely recognized for products such as ChatGPT and models including GPT-4. These systems are used by millions of individuals and organizations for writing, programming, education, research, and customer support.
+
+Training modern language models requires enormous computational resources. OpenAI relies heavily on its strategic partnership with Microsoft to access large-scale Azure infrastructure. Microsoft provides cloud computing resources that enable OpenAI to train increasingly capable AI models.
+
+OpenAI also depends on NVIDIA's high-performance GPUs, particularly the NVIDIA H100 Tensor Core GPU. These specialized processors accelerate deep learning workloads and significantly reduce the time required to train and fine-tune large language models.

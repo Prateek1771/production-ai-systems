@@ -1,0 +1,7 @@
+Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington. Founded in 1975 by Bill Gates and Paul Allen, Microsoft became one of the world's largest software companies through products such as Windows and Microsoft Office. Today, the company also provides cloud computing, gaming, productivity software, and artificial intelligence services.
+
+Under the leadership of CEO Satya Nadella, Microsoft shifted its primary focus toward cloud computing and AI. Nadella emphasized a cloud-first, AI-first strategy that significantly expanded Microsoft's enterprise business. Microsoft Azure became one of the company's fastest-growing products and now powers thousands of businesses worldwide.
+
+In 2019 and 2023, Microsoft invested a total of approximately $13 billion in OpenAI, creating one of the most influential partnerships in artificial intelligence. As part of the agreement, Microsoft Azure became the exclusive cloud provider for OpenAI's workloads. The partnership allows Microsoft to integrate OpenAI models into products such as Microsoft Copilot, Bing, and Azure AI services.
+
+Microsoft is also one of NVIDIA's largest enterprise customers. The company purchases large numbers of NVIDIA H100 GPUs to build AI supercomputers inside Azure data centers. These computing clusters provide the infrastructure required to train and deploy large language models at scale.
